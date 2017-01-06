@@ -1,0 +1,106 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/abrahamn/Documents/Physics/papers/xcor_paper3D/.texpadtmp/xcor_paper3D.aux
+The style file: ../apj.bst
+Database file #1: ../xcor_paper3D.bib
+Repeated entry---line 2062 of file ../xcor_paper3D.bib
+ : @article{mwascience
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2071 of file ../xcor_paper3D.bib
+ : @article{tingay13
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2421 of file ../xcor_paper3D.bib
+ : @article{miguelreview
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2436 of file ../xcor_paper3D.bib
+ : @article{PritchardLoebReview
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2869 of file ../xcor_paper3D.bib
+ : @article{tingay13
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3109 of file ../xcor_paper3D.bib
+ : @article{FurlanettoReview
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3122 of file ../xcor_paper3D.bib
+ : @article{miguelreview
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3137 of file ../xcor_paper3D.bib
+ : @article{PritchardLoebReview
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3189 of file ../xcor_paper3D.bib
+ : @article{mwascience
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4069 of file ../xcor_paper3D.bib
+ : @article{PritchardLoebReview
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5233 of file ../xcor_paper3D.bib
+ : @article{FurlanettoReview
+ :                          ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 5765 of file ../xcor_paper3D.bib
+ :   
+ :   url =   {http://reionization.org/},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 5815 of file ../xcor_paper3D.bib
+ : @article{miguelreview
+ :                      ,
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 6066 of file ../xcor_paper3D.bib
+ :    
+ :    volume = 499,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty publisher in ska
+You've used 48 entries,
+            2988 wiz_defined-function locations,
+            928 strings with 27682 characters,
+and the built_in function-call counts, 29580 in all, are:
+= -- 1700
+> -- 3398
+< -- 7
++ -- 1136
+- -- 1082
+* -- 3233
+:= -- 5951
+add.period$ -- 48
+call.type$ -- 48
+change.case$ -- 295
+chr.to.int$ -- 48
+cite$ -- 49
+duplicate$ -- 887
+empty$ -- 1282
+format.name$ -- 1253
+if$ -- 5436
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 47
+newline$ -- 148
+num.names$ -- 192
+pop$ -- 296
+preamble$ -- 1
+purify$ -- 295
+quote$ -- 0
+skip$ -- 751
+stack$ -- 0
+substring$ -- 943
+swap$ -- 14
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 429
+warning$ -- 1
+while$ -- 131
+width$ -- 0
+write$ -- 476
+(There were 14 error messages)
